@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="Rxora colour palette">
+<rect x="6.0" y="10" width="138" height="130" rx="14" fill="#F0FDFA" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="75.0" y="62" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#115E59">#F0FDFA</text>
+<text x="75.0" y="86" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#115E59">teal-50</text>
+<text x="75.0" y="108" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#115E59" opacity="0.85">Page tint</text>
+<rect x="156.0" y="10" width="138" height="130" rx="14" fill="#CCFBF1" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="225.0" y="62" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#115E59">#CCFBF1</text>
+<text x="225.0" y="86" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#115E59">teal-100</text>
+<text x="225.0" y="108" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#115E59" opacity="0.85">Cards / splash</text>
+<rect x="306.0" y="10" width="138" height="130" rx="14" fill="#0D9488" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="375.0" y="62" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">#0D9488</text>
+<text x="375.0" y="86" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#FFFFFF">teal-600</text>
+<text x="375.0" y="108" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#FFFFFF" opacity="0.85">Buttons</text>
+<rect x="456.0" y="10" width="138" height="130" rx="14" fill="#0F766E" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="525.0" y="62" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">#0F766E</text>
+<text x="525.0" y="86" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#FFFFFF">teal-700</text>
+<text x="525.0" y="108" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#FFFFFF" opacity="0.85">Header / PDF</text>
+<rect x="606.0" y="10" width="138" height="130" rx="14" fill="#115E59" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="675.0" y="62" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">#115E59</text>
+<text x="675.0" y="86" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#FFFFFF">teal-800</text>
+<text x="675.0" y="108" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#FFFFFF" opacity="0.85">Headings</text>
+<rect x="756.0" y="10" width="138" height="130" rx="14" fill="#0F172A" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="825.0" y="62" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">#0F172A</text>
+<text x="825.0" y="86" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#FFFFFF">slate-900</text>
+<text x="825.0" y="108" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#FFFFFF" opacity="0.85">Body text</text>
+<rect x="906.0" y="10" width="138" height="130" rx="14" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="975.0" y="62" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#0F172A">#F8FAFC</text>
+<text x="975.0" y="86" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#0F172A">slate-50</text>
+<text x="975.0" y="108" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#0F172A" opacity="0.85">Background</text>
+<rect x="1056.0" y="10" width="138" height="130" rx="14" fill="#FFFBEB" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="1125.0" y="62" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#92400E">#FFFBEB</text>
+<text x="1125.0" y="86" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#92400E">amber-50</text>
+<text x="1125.0" y="108" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#92400E" opacity="0.85">Notices</text>
+</svg>

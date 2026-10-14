@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="1200" height="250" role="img" aria-label="How Rxora works in five steps">
+<rect width="1200" height="250" rx="20" fill="#F0FDFA"/>
+<rect x="51.0" y="30" width="206" height="190" rx="16" fill="#FFFFFF" stroke="#CCFBF1" stroke-width="2"/>
+<circle cx="154.0" cy="72" r="24" fill="#0D9488"/><text x="154.0" y="81" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">1</text>
+<text x="154.0" y="128" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#115E59">Sign in</text>
+<text x="154.0" y="156" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#475569">Email, Google or</text>
+<text x="154.0" y="178" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#475569">reset password</text>
+<path d="M259.0 125 l13 0 m-6 -5 l6 5 l-6 5" stroke="#0F766E" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="274.0" y="30" width="206" height="190" rx="16" fill="#FFFFFF" stroke="#CCFBF1" stroke-width="2"/>
+<circle cx="377.0" cy="72" r="24" fill="#0D9488"/><text x="377.0" y="81" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">2</text>
+<text x="377.0" y="128" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#115E59">Add document</text>
+<text x="377.0" y="156" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#475569">Photo of prescription</text>
+<text x="377.0" y="178" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#475569">and/or typed text</text>
+<path d="M482.0 125 l13 0 m-6 -5 l6 5 l-6 5" stroke="#0F766E" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="497.0" y="30" width="206" height="190" rx="16" fill="#FFFFFF" stroke="#CCFBF1" stroke-width="2"/>
+<circle cx="600.0" cy="72" r="24" fill="#0D9488"/><text x="600.0" y="81" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">3</text>
+<text x="600.0" y="128" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#115E59">Explain This to Me</text>
+<text x="600.0" y="156" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#475569">Tap the teal button</text>
+<path d="M705.0 125 l13 0 m-6 -5 l6 5 l-6 5" stroke="#0F766E" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="720.0" y="30" width="206" height="190" rx="16" fill="#FFFFFF" stroke="#CCFBF1" stroke-width="2"/>
+<circle cx="823.0" cy="72" r="24" fill="#0D9488"/><text x="823.0" y="81" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">4</text>
+<text x="823.0" y="128" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#115E59">Choose language</text>
+<text x="823.0" y="156" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#475569">One of 23 languages</text>
+<path d="M928.0 125 l13 0 m-6 -5 l6 5 l-6 5" stroke="#0F766E" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="943.0" y="30" width="206" height="190" rx="16" fill="#FFFFFF" stroke="#CCFBF1" stroke-width="2"/>
+<circle cx="1046.0" cy="72" r="24" fill="#0D9488"/><text x="1046.0" y="81" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">5</text>
+<text x="1046.0" y="128" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#115E59">Read · Listen · Save</text>
+<text x="1046.0" y="156" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#475569">History + PDF report</text>
+</svg>
