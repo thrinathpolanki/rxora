@@ -1,0 +1,1 @@
+{"name":"rxora-frontend-tests","private":true,"scripts":{"test":"node test.js"},"devDependencies":{"jsdom":"^26.0.0"}}
